@@ -1,0 +1,8 @@
+site_name: "maisengasse"
+site_description: "Documentation for maisengasse"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

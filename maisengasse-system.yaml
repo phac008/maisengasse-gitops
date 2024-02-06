@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: maisengasse
+  description: fsf
+  labels:
+    environments: prod,qa,dev
+spec:
+  owner: group:default/jokl
